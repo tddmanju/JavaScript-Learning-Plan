@@ -23,3 +23,9 @@ The Right Way
 http://jstherightway.org/
 BLOGS :
 http://www.2ality.com/
+.,..,.,
+UI Component
+https://onedrive.live.com/redir?resid=590E9F9D336C8FBB!306&authkey=!AGPJay6J9ErsHjg&ithint=file%2cdocx
+2
+https://onedrive.live.com/redir?resid=590E9F9D336C8FBB!307&authkey=!AFHNUjQoxdrnW0w&ithint=file%2cdocx
+
